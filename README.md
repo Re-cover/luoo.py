@@ -12,7 +12,7 @@ http://luoo-mp3.kssws.ks-cdn.com/low/luoo/radio(期刊编号)/(歌曲编号).mp3
 4. 输出下载信息到控制台, 下载出错的文件信息输出到log日志文件.
 
 #存在的问题#
-1. 目前的爬虫策略无法获取部分不规则的歌曲链接;
+1. 目前的爬虫策略无法获取部分不规则的歌曲链接(如第524期第1首歌的下载链接为http://luoo-mp3.kssws.ks-cdn.com/low/anbai/radio2/01.mp3, 不符合上述链接构成);
 2. 暂时只适配linux与Mac OS, Windows 由于编码问题尚未兼容;
 
 
